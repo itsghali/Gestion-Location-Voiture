@@ -128,6 +128,3 @@ Developed as a C programming project for educational purposes. Suitable for stud
 - Menu-driven applications
 - Memory management and modular functions
 
----
-
-Let me know if you'd like a version in French or saved as a `.md` file!
