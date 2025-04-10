@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716108875 source:c:\users\ghali\onedrive\bureau\project\c-project\rent car\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
